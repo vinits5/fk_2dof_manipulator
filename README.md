@@ -15,6 +15,8 @@ This repository contains a nueral network trained to predict the end effector po
 ## Results
 
 ### Simulation
+Following are the end-effector positions predicted by the neural network:
+
 <p align="center">
 	<img src="https://github.com/vinits5/fk_2dof_manipulator/blob/master/robot_simulation/fk_2dof_neural_net.gif" title="Robot Simulation">
 </p>
